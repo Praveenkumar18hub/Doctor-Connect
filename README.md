@@ -8,9 +8,9 @@
 
 ## Deployment Links
 
-    [Demo Link for Patient Page](https://doc-con-patients.netlify.app)
+[Demo Link for Patient Page](https://doc-con-patients.netlify.app)
 
-    [Demo Link for Admin Page](https://doc-con-admins.netlify.app)
+[Demo Link for Admin Page](https://doc-con-admins.netlify.app)
 
 ### Credentials
 
